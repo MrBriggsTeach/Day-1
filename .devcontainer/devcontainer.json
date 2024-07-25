@@ -14,7 +14,9 @@
 			"NODE_VERSION": "none"
 		}
 	},
-
+	"features": {
+	    "ghcr.io/devcontainers-contrib/features/coverage-py:2": {}
+	  },
 	// Configure tool-specific properties.
 	"customizations": {
 		// Configure properties specific to VS Code.
